@@ -1,0 +1,19 @@
+{
+  "name": "xmaxjs-fcbuffer",
+  "version": "0.0.1",
+  "description": "Xmax blockchain serialization library",
+  "main": "src/index.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+  
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+   
+  }
+
+}
