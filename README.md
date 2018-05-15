@@ -1,2 +1,2 @@
-﻿# xmaxjs-fcbuffer
+﻿# xmaxjs-fcbuffer-lib
 
